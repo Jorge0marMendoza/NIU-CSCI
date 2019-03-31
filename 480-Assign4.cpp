@@ -1,7 +1,7 @@
 /*////////////////////////////////////////////////
 NAME:		Jorge Mendoza			//
-ZID:		z1643821			//
-DUE:		April 14th, 2017		//
+ZID:						//
+DUE:						//
 USE:		Reads from a file		//
 		writes to binary file		//
 		and finally prints		//
